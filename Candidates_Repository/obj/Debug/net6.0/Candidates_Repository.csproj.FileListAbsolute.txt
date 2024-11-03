@@ -1,0 +1,17 @@
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_Repository\bin\Debug\net6.0\Candidates_Repository.deps.json
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_Repository\bin\Debug\net6.0\Candidates_Repository.dll
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_Repository\bin\Debug\net6.0\Candidates_Repository.pdb
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_Repository\bin\Debug\net6.0\Candidates_BusinessObject.dll
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_Repository\bin\Debug\net6.0\Candidates_DAOs.dll
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_Repository\bin\Debug\net6.0\Candidates_DAOs.pdb
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_Repository\bin\Debug\net6.0\Candidates_BusinessObject.pdb
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_Repository\obj\Debug\net6.0\Candidates_Repository.csproj.AssemblyReference.cache
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_Repository\obj\Debug\net6.0\Candidates_Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_Repository\obj\Debug\net6.0\Candidates_Repository.AssemblyInfoInputs.cache
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_Repository\obj\Debug\net6.0\Candidates_Repository.AssemblyInfo.cs
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_Repository\obj\Debug\net6.0\Candidates_Repository.csproj.CoreCompileInputs.cache
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_Repository\obj\Debug\net6.0\Candidat.2E2274A8.Up2Date
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_Repository\obj\Debug\net6.0\Candidates_Repository.dll
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_Repository\obj\Debug\net6.0\refint\Candidates_Repository.dll
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_Repository\obj\Debug\net6.0\Candidates_Repository.pdb
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_Repository\obj\Debug\net6.0\ref\Candidates_Repository.dll

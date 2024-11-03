@@ -1,0 +1,6 @@
+CANDIDATE0002	Ethelbert Harron	1993-04-16 00:00:00.000	Critical thinking skills and an analytical mind with strong problem-solving abilities.	EthelbertHarron.PDF	P0005
+CANDIDATE0008	123Minhngo123	1996-01-10 00:00:00.000	Proven ability to troubleshoot hardware, software, and network issues quickly and effectively.11232323	MichaelLeonard.IMG	P0002
+CANDIDATE0007	Minhngo123	1996-01-10 00:00:00.000	Proven ability to troubleshoot hardware, software, and network issues quickly and effectively.11232323	MichaelLeonard.IMG	P0006
+CANDIDATE0006	Minhngo	1996-01-25 00:00:00.000	Proven ability to troubleshoot hardware, software, and network issues quickly and effectively.123	MichaelLeonard.GIF	P0003
+CANDIDATE0009	Minhngo	1996-01-27 00:00:00.000	Proven ability to troubleshoot hardware, software, and network issues quickly and effectively.	MichaelLeonard.IMG	P0005
+CANDIDATE0004	Michael Leonard	1995-12-30 00:00:00.000	Proven ability to troubleshoot hardware, software, and network issues quickly and effectively.	MichaelLeonard.PDF	P0003

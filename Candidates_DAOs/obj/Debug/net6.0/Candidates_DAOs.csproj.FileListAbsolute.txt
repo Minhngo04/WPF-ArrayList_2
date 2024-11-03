@@ -1,0 +1,15 @@
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_DAOs\bin\Debug\net6.0\Candidates_DAOs.deps.json
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_DAOs\bin\Debug\net6.0\Candidates_DAOs.dll
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_DAOs\bin\Debug\net6.0\Candidates_DAOs.pdb
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_DAOs\bin\Debug\net6.0\Candidates_BusinessObject.dll
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_DAOs\bin\Debug\net6.0\Candidates_BusinessObject.pdb
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_DAOs\obj\Debug\net6.0\Candidates_DAOs.csproj.AssemblyReference.cache
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_DAOs\obj\Debug\net6.0\Candidates_DAOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_DAOs\obj\Debug\net6.0\Candidates_DAOs.AssemblyInfoInputs.cache
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_DAOs\obj\Debug\net6.0\Candidates_DAOs.AssemblyInfo.cs
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_DAOs\obj\Debug\net6.0\Candidates_DAOs.csproj.CoreCompileInputs.cache
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_DAOs\obj\Debug\net6.0\Candidat.094C5D39.Up2Date
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_DAOs\obj\Debug\net6.0\Candidates_DAOs.dll
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_DAOs\obj\Debug\net6.0\refint\Candidates_DAOs.dll
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_DAOs\obj\Debug\net6.0\Candidates_DAOs.pdb
+D:\FPT Document\PRN212_Lesson\WPF_ArrayList_2\PRN221PE_FA22_TrialTest_NgoQuangMinh\Candidates_DAOs\obj\Debug\net6.0\ref\Candidates_DAOs.dll

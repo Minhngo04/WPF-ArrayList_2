@@ -1,0 +1,71 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Candidates_Service/1.0.0": {
+        "dependencies": {
+          "Candidates_Repository": "1.0.0"
+        },
+        "runtime": {
+          "Candidates_Service.dll": {}
+        }
+      },
+      "Candidates_BusinessObject/1.0.0": {
+        "runtime": {
+          "Candidates_BusinessObject.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Candidates_DAOs/1.0.0": {
+        "dependencies": {
+          "Candidates_BusinessObject": "1.0.0"
+        },
+        "runtime": {
+          "Candidates_DAOs.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Candidates_Repository/1.0.0": {
+        "dependencies": {
+          "Candidates_DAOs": "1.0.0"
+        },
+        "runtime": {
+          "Candidates_Repository.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Candidates_Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Candidates_BusinessObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Candidates_DAOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Candidates_Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

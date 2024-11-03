@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Candidates_BusinessObject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Candidates_BusinessObject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Candidates_BusinessObject.dll": {}
+        }
+      },
+      "Candidates_DAOs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Candidates_BusinessObject": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Candidates_DAOs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Candidates_DAOs.dll": {}
+        }
+      },
+      "Candidates_Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Candidates_DAOs": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Candidates_Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Candidates_Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Candidates_BusinessObject/1.0.0": {
+      "type": "project",
+      "path": "../Candidates_BusinessObject/Candidates_BusinessObject.csproj",
+      "msbuildProject": "../Candidates_BusinessObject/Candidates_BusinessObject.csproj"
+    },
+    "Candidates_DAOs/1.0.0": {
+      "type": "project",
+      "path": "../Candidates_DAOs/Candidates_DAOs.csproj",
+      "msbuildProject": "../Candidates_DAOs/Candidates_DAOs.csproj"
+    },
+    "Candidates_Repository/1.0.0": {
+      "type": "project",
+      "path": "../Candidates_Repository/Candidates_Repository.csproj",
+      "msbuildProject": "../Candidates_Repository/Candidates_Repository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Candidates_Repository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\FPT Document\\PRN212_Lesson\\WPF_ArrayList_2\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Candidates_Service\\Candidates_Service.csproj",
+      "projectName": "Candidates_Service",
+      "projectPath": "D:\\FPT Document\\PRN212_Lesson\\WPF_ArrayList_2\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Candidates_Service\\Candidates_Service.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\FPT Document\\PRN212_Lesson\\WPF_ArrayList_2\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Candidates_Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\FPT Document\\PRN212_Lesson\\WPF_ArrayList_2\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Candidates_Repository\\Candidates_Repository.csproj": {
+              "projectPath": "D:\\FPT Document\\PRN212_Lesson\\WPF_ArrayList_2\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Candidates_Repository\\Candidates_Repository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
